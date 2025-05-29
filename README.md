@@ -9,4 +9,4 @@ A minimal React + Vite + Express app showing upcoming soccer fixtures with a par
 - Loading skeletons, error handling, auto-refresh
 
   website overview:
-  ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/0baf80d3-fc26-4977-be2b-ad6149f453d4)
